@@ -30,9 +30,9 @@ const Header = ({ siteTitle }) => (
     <p style={{ textAlign: "center", maxWidth: 440 }}>
       Are you tired of getting constant calls and texts from clients asking if
       you have serviced their pool today? Are you looking for a way to better
-      connect and communcate with those clients? Try out pool master. We make it
-      easy for you and your clients to connect and track what has been done or
-      needs to be done at the pool.
+      connect and communicate with those clients? Try out pool master. We make
+      it easy for you and your clients to connect and track what has been done
+      or needs to be done at the pool.
     </p>
     <MailchimpForm>Get Early Access</MailchimpForm>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
